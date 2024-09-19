@@ -1,0 +1,14 @@
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\bin\Debug\net8.0\Knowledge-Check-2.exe
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\bin\Debug\net8.0\Knowledge-Check-2.deps.json
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\bin\Debug\net8.0\Knowledge-Check-2.runtimeconfig.json
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\bin\Debug\net8.0\Knowledge-Check-2.dll
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\bin\Debug\net8.0\Knowledge-Check-2.pdb
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\Knowledge-Check-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\Knowledge-Check-2.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\Knowledge-Check-2.AssemblyInfo.cs
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\Knowledge-Check-2.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\Knowledge-Check-2.dll
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\refint\Knowledge-Check-2.dll
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\Knowledge-Check-2.pdb
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\Knowledge-Check-2.genruntimeconfig.cache
+C:\Users\tyler\source\repos\Knowledge-Check-2\Knowledge-Check-2\obj\Debug\net8.0\ref\Knowledge-Check-2.dll
